@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# big data files
+/data/Extranet2.ExactFuelEvents.csv
+/data/Extranet2.ExactFuelTankLevels.csv
