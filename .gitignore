@@ -1,3 +1,5 @@
+/data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -99,7 +101,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
-# big data files
-/data/Extranet2.ExactFuelEvents.csv
-/data/Extranet2.ExactFuelTankLevels.csv
